@@ -1,2 +1,3 @@
 node_modules/
 proto/randomPackage
+proto/random.ts
