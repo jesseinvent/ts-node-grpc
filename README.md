@@ -1,5 +1,6 @@
-## gRPC Implementation with Typescript
+## gRPC Typescript Demo
 
+Basic demo of the gRPC client - server communication modes in Typescript.
 
 Clone repo:
 ```
@@ -10,6 +11,10 @@ Install packages:
 ```
 $ npm install
 ```
+
+Install Proto compiler:
+
+[Click to learn how to install](https://grpc.io/docs/protoc-installation/)
 
 Generate Proto packages types:
 ```
